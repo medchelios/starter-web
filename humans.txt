@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Mohamed TOURE    toure1206@gmail.com
 
 # THANKS
 
