@@ -1,5 +1,5 @@
 # Learning Git
-This is introction to learn the Git repository
+This is introction to learn the Git repository. adding a line for rebasing example.
 ## Purpose
 This is section to learn the Git repository
 ## Deployment
