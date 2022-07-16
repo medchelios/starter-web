@@ -1,5 +1,5 @@
-# Starter Web Repo
-
+# Learning Git
+This is introction to learn the Git repository
 ## Purpose
 
 ## Deployment
